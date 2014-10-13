@@ -1,0 +1,6 @@
+package operators;
+public enum TokenType
+{
+		INT_LIT, IDENT, ASSIGN_OP, ADD_OP, SUB_OP, MULT_OP, DIV_OP, LEFT_PAREN, RIGHT_PAREN, EOS, LESS, LESSEQUAL, GREATER, GREATEREQUAL, EQUAL, LET_ST, PRINT_ST, GOTO_ST, IF_ST, STOP_ST, EOLN, NOT
+	//								+		-		*		/		(			)	
+}
